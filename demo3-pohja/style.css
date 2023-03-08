@@ -4,9 +4,9 @@
 }
 body {
 	padding-top: 0px;
-	background-color: #01111d;
-	color: #FFF;
-	font-family: verdana, arial, sans-serif;
+	background-color: #12d12b;
+	color: #ff00bf;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 	
 	text-align: left;
 	letter-spacing: 1px;
@@ -38,7 +38,7 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 #m04 {left:590px;}
 #m05 {left:730px;}
 #menu a{
-	font-family: verdana, arial, sans-serif;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 	font-size: 12px;
 	font-weight:bolder;
 	color:#FFFFFF;
@@ -59,7 +59,7 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	display:inline;
 }
 #dj {
-	background-image:url(images/dj.jpg);
+	background-image:url(images/OIP.jpg);
 	width:498px;
 	height:405px;
 	float:right;
@@ -79,7 +79,7 @@ p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
 	width:200px;
 }
 #welcome img{
-	border: solid 3px #FFFFFF;
+	border: solid 3px #4400ff;
 }
 #middle {
 	background-image:url(images/middle.gif);
